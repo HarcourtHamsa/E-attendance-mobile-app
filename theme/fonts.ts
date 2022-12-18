@@ -1,0 +1,3 @@
+const weight = {};
+
+export { weight };
